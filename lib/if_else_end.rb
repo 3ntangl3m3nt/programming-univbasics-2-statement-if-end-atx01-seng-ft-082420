@@ -1,6 +1,7 @@
 # Write your solution here
-if time
+current_time = Time.now
+if (current_time.to_s ==
   put "Even!"
 else
-  put "Even!"
+  put "Odd!"
 end
