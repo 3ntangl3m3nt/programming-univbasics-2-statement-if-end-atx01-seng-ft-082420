@@ -1,4 +1,6 @@
 # Write your solution here
-if 
+if time
+  put "Even!"
+else
   put "Even!"
 end
